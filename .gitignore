@@ -1,0 +1,4 @@
+out/
+models/
+.venv/
+pre_audio/
